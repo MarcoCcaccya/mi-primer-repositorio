@@ -18,8 +18,7 @@ propios proyectos personales y empezar a ofrecer mis servicios como desarrollado
 
 ##### Mis redes:
 
-- [LinKedin](#linkedin)
-- [Mi perfil de GitHub](#GitHub)
+- [Mi perfil de GitHub](https://github.com/MarcoCcaccya)
 
 ### Guia sobre Markdown
 
