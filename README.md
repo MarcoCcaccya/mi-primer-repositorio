@@ -21,4 +21,8 @@ propios proyectos personales y empezar a ofrecer mis servicios como desarrollado
 - [LinKedin](#linkedin)
 - [Mi perfil de GitHub](#GitHub)
 
+### Guia sobre Markdown
+
+- [Ver guia](markdown-guide.md)
+
 
