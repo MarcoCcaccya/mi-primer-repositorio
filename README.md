@@ -1,29 +1,24 @@
-# Titulo 1
-## Titulo 2
-### Titulo 3 
+# Marco Ccaccya Huayhuas
+Tengo 20 años y soy un apasionado de la tecnologia y el desarrolo de software  
+estoy emocionado de aprender más a cerca de este entorno.
 
-**Este es mi texto en negrita** 
+![Imagen de Marco](https://lh3.googleusercontent.com/a/ACg8ocImBiVKQTNST8Se63mqZw3lZzMZKKKJv2Khmkricv26WK1Nzzcj=s360-c-no)
 
-__Este es mi texto 2 en negrita__
+## Tabla de Contenidos
 
-*Esto es cursiva*
+1. [Introduccion al Markdown](#Introduccion)
+2. [Introduccion a GitHub](#Introduccion)
+3. [Crear una cuenta en GitHub](#Crear-cuenta-en-github)
+4. [Crear un repositorio](#Crear-repositorio-en-github)
 
-_Esto en cursiva 2_
+### Mi vision de crecimiento como desarrollador
 
-1. Elemento numero 1
-2. Elemento numero 2
-3. Elemento numero 3
+Espero adquirir las habilidades y conocimientos necesarios para llevar a cabo mis  
+propios proyectos personales y empezar a ofrecer mis servicios como desarrollador.
 
-## Receta de Pollo a la Brasa
+##### Mis redes:
 
-- Papas
-- Pollo
-- Ensalada
-- Carbon
+- [LinKedin](#linkedin)
+- [Mi perfil de GitHub](#GitHub)
 
-![Pollo a la brasa](https://polleriaslagranja.com/wp-content/uploads/2022/10/La-Granja-Real-Food-Chicken-1-Pollo-a-la-Brasa.png)
 
-[Facebook](https://www.facebook.com/profile.php?id=100005166827114)
-
-```
-<h1>Hola mundo!</h1>
